@@ -1,0 +1,3686 @@
+{\rtf1\ansi\ansicpg936\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+\{\
+    "sites": [\
+        \{\
+            "key": "csp_appys_
+\f1 \'b7\'b9\'cd\'c5\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b7\'b9\'cd\'c5\'d3\'b0\'ca\'d3
+\f0 (M2)",\
+            "type": 3,\
+            "api": "csp_AppYs",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://television.wkfile.com/api.php/app/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d7\'b7\'be\'e7\'b4\'ef\'c8\'cb
+\f0 ",\
+            "name": "
+\f1 \'d7\'b7\'be\'e7\'cd\'c6\'bc\'f6
+\f0 (M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://vipmv.co/xgapp.php/v1/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'c7\'bf\'d5\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d0\'c7\'bf\'d5\'cd\'c6\'bc\'f6
+\f0 (M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://xkys.tv/xgapp.php/v1/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cc\'ec\'bf\'d5\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'cc\'ec\'bf\'d5\'cd\'c6\'bc\'f6
+\f0 (M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://tkys.tv/xgapp.php/v1/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cc\'ec\'bf\'d5\'d3\'b0\'ca\'d3
+\f0 V2",\
+            "name": "
+\f1 \'cc\'ec\'bf\'d5\'d3\'b0\'ca\'d3
+\f0 V2(M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.tkys.tv/xgapp.php/v2/"\
+        \},\
+        \{\
+            "key": "if101
+\f1 \'d7\'ca\'d4\'b4
+\f0 ",\
+            "name": "
+\f1 \'ba\'a3\'cd\'e2\'cd\'c6\'bc\'f6
+\f0 ",\
+            "type": 0,\
+            "api": "https://demo.if101.tv/api.php/provide/vod/at/xml",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 0\
+        \},\
+        \{\
+            "key": "csp_Buka",\
+            "name": "
+\f1 \'d5\'e6\'b2\'bb\'bf\'a8
+\f0 (
+\f1 \'c5\'c0\'b3\'e6
+\f0 )",\
+            "type": 3,\
+            "api": "csp_Buka",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1\
+        \},\
+        \{\
+            "key": "csp_Enlienli",\
+            "name": "
+\f1 \'e0\'c5\'c1\'a8\'e0\'c5\'c1\'a8
+\f0 (
+\f1 \'c5\'c0\'b3\'e6
+\f0 )",\
+            "type": 3,\
+            "api": "csp_Enlienli",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1\
+        \},\
+        \{\
+            "key": "csp_Cokemv",\
+            "name": "Cokemv(
+\f1 \'c5\'c0\'b3\'e6
+\f0 )",\
+            "type": 3,\
+            "api": "csp_Cokemv",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1\
+        \},\
+        \{\
+            "key": "csp_N0ys",\
+            "name": "90
+\f1 \'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c5\'c0\'b3\'e6
+\f0 )",\
+            "type": 3,\
+            "api": "csp_N0ys",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 0\
+        \},\
+        \{\
+            "key": "csp_Nekk",\
+            "name": "9E
+\f1 \'bf\'b4\'bf\'b4
+\f0 (
+\f1 \'c5\'c0\'b3\'e6
+\f0 )",\
+            "type": 3,\
+            "api": "csp_Nekk",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1\
+        \},\
+        \{\
+            "key": "
+\f1 \'b6\'c0\'b2\'a5\'bf\'e2
+\f0 ",\
+            "name": "
+\f1 \'b6\'c0\'b2\'a5\'bf\'e2
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPathDbk",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/Duboku.json"\
+        \},\
+        \{\
+            "key": "csp_xpath_Jumi",\
+            "name": "
+\f1 \'be\'e7\'c3\'d4
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPathJumi",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/Jumi.json"\
+        \},\
+        \{\
+            "key": "csp_xpath_dmntv",\
+            "name": "
+\f1 \'ba\'fc\'c1\'e9\'d3\'b0\'ca\'d3
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPathFilter",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/dmntv.json"\
+        \},\
+        \{\
+            "key": "csp_xpath_94sm",\
+            "name": "94
+\f1 \'c9\'f1\'c2\'ed
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPath",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 0,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/94sm.json"\
+        \},\
+        \{\
+            "key": "csp_xpath_tvci",\
+            "name": "
+\f1 \'b4\'f3\'ca\'a6\'d0\'d6
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPathMacFilter",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/tvci.json"\
+        \},\
+        \{\
+            "key": "csp_xpath_dm84",\
+            "name": "
+\f1 \'b6\'af\'c2\'fe\'b0\'cd\'ca\'bf
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPath",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 0,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/dm84.json"\
+        \},\
+        \{\
+            "key": "
+\f1 \'cc\'c6\'c8\'cb\'bd\'d6
+\f0 ",\
+            "name": "
+\f1 \'cc\'c6\'c8\'cb\'bd\'d6
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPathMacFilter",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/Renjie.json"\
+        \},\
+        \{\
+            "key": "Gimy",\
+            "name": "Gimy(XPath)",\
+            "type": 3,\
+            "api": "csp_XPathMacFilter",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/Gimy.json"\
+        \},\
+        \{\
+            "key": "csp_xpath_lezhutv",\
+            "name": "
+\f1 \'c0\'d6\'d6\'ed
+\f0 TV(XPath)",\
+            "type": 3,\
+            "api": "csp_XPathMac",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 0,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/lezhutv.json"\
+        \},\
+        \{\
+            "key": "csp_xpath_meiju56",\
+            "name": "
+\f1 \'c3\'c0\'be\'e7\'cd\'f8
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPathMacFilter",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/meiju56.json"\
+        \},\
+        \{\
+            "key": "csp_xpath_lranc",\
+            "name": "
+\f1 \'cc\'ec\'cc\'ec\'d3\'b0\'ca\'d3
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPathMacFilter",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/lranc.json"\
+        \},\
+        \{\
+            "key": "csp_xpath_4kpianku",\
+            "name": "4k
+\f1 \'c6\'ac\'bf\'e2\'cd\'f8
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPathMacFilter",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/4kpianku.json"\
+        \},\
+        \{\
+            "key": "csp_xpath_agefans",\
+            "name": "Age
+\f1 \'b6\'af\'c2\'fe
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPath",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/agefans.json"\
+        \},\
+        \{\
+            "key": "csp_xpath_saohuotv2",\
+            "name": "
+\f1 \'c9\'a7\'bb\'f0\'b5\'e7\'d3\'b0
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPath",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/saohuotv2.json"\
+        \},\
+        \{\
+            "key": "csp_xpath_subb",\
+            "name": "
+\f1 \'cb\'d8\'b0\'d7\'b0\'d7\'d3\'b0\'ca\'d3
+\f0 (XPath)",\
+            "type": 3,\
+            "api": "csp_XPath",\
+            "searchable": 1,\
+            "quickSearch": 1,\
+            "filterable": 1,\
+            "ext": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/subaibai.json"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d7\'b7\'be\'e7\'b4\'ef\'c8\'cb
+\f0 ",\
+            "name": "
+\f1 \'d7\'b7\'be\'e7\'cd\'c6\'bc\'f6
+\f0 (M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://vipmv.co/xgapp.php/v1/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'c7\'bf\'d5\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d0\'c7\'bf\'d5\'cd\'c6\'bc\'f6
+\f0 (M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://xkys.tv/xgapp.php/v1/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cc\'ec\'bf\'d5\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'cc\'ec\'bf\'d5\'cd\'c6\'bc\'f6
+\f0 (M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://tkys.tv/xgapp.php/v1/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cc\'ec\'bf\'d5\'d3\'b0\'ca\'d3
+\f0 V2",\
+            "name": "
+\f1 \'cc\'ec\'bf\'d5\'d3\'b0\'ca\'d3
+\f0 V2(M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.tkys.tv/xgapp.php/v2/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b4\'f3\'d0\'dc
+\f0 ",\
+            "name": "
+\f1 \'b4\'f3\'d0\'dc
+\f0 (M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://dxys2233.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c1\'f7\'d0\'c7
+\f0 ",\
+            "name": "
+\f1 \'c1\'f7\'d0\'c7
+\f0 (M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://fkxs2233.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c8\'ab\'c4\'dc
+\f0 ",\
+            "name": "
+\f1 \'c8\'ab\'c4\'dc
+\f0 (M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://qnys5566.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'c4\'b0\'ae
+\f0 ",\
+            "name": "
+\f1 \'d0\'c4\'b0\'ae
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://xays6677.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d1\'a9\'c0\'e6
+\f0 ",\
+            "name": "
+\f1 \'d1\'a9\'c0\'e6
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://zsb2233.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d1\'ee\'cc\'d2
+\f0 ",\
+            "name": "
+\f1 \'d1\'ee\'cc\'d2
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://ytys3456.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b5\'cf\'b5\'cf\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'b5\'cf\'b5\'cf\'d3\'b0\'d4\'ba
+\f0 V2(M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://dd88.icu:6080/xgapp.php/v2/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c1\'e9\'ba\'fc\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c1\'e9\'ba\'fc\'d3\'b0\'ca\'d3
+\f0 (M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://x.dmntv.com/api.php/app/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'ca\'d6\'d6\'b8\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'ca\'d6\'d6\'b8\'d3\'b0\'ca\'d3
+\f0 (M2)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://szys5678.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_1080p",\
+            "name": "1080p(
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://1080p.one/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_1231D",\
+            "name": "1231D(
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://vue.app.yunboys.cn/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_300
+\f1 \'bf\'b4\'ca\'c0\'bd\'e7
+\f0 ",\
+            "name": "300
+\f1 \'bf\'b4\'ca\'c0\'bd\'e7
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://300ys.xyz/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_4K
+\f1 \'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "4K
+\f1 \'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://1api.4kdytv.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_CJT
+\f1 \'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "CJT
+\f1 \'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.cjt521.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_DC
+\f1 \'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "DC
+\f1 \'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://chaorenbb.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_F7
+\f1 \'b8\'df\'c7\'e5
+\f0 ",\
+            "name": "F7
+\f1 \'b8\'df\'c7\'e5
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://bc.haokanju1.cc/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_HG
+\f1 \'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "HG
+\f1 \'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://hgyx.vip/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b0\'ae\'bf\'b4\'c3\'c0\'be\'e7
+\f0 ",\
+            "name": "
+\f1 \'b0\'ae\'bf\'b4\'c3\'c0\'be\'e7
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.uumjw.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b0\'ae\'bf\'e1\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b0\'ae\'bf\'e1\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b0\'ae\'bf\'b4\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'b0\'ae\'bf\'b4\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://www.a91.cm/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b2\'cb\'c4\'f1\'d7\'b7\'be\'e7
+\f0 ",\
+            "name": "
+\f1 \'b2\'cb\'c4\'f1\'d7\'b7\'be\'e7
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://81.71.18.95:5555/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b0\'d7\'e6\'ce\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b0\'d7\'e6\'ce\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://zgjxdtg.cn/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b3\'f5\'d0\'c4\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b3\'f5\'d0\'c4\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.18mv.club/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b6\'c0\'b2\'a5\'c9\'e7
+\f0 ",\
+            "name": "
+\f1 \'b6\'c0\'b2\'a5\'c9\'e7
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://35ys.cc/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b6\'a3\'b5\'b1\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b6\'a3\'b5\'b1\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://tv.0573wl.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b6\'ce\'d3\'d1\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b6\'ce\'d3\'d1\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b6\'ce\'d3\'d1
+\f0 2
+\f1 \'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b6\'ce\'d3\'d1
+\f0 2
+\f1 \'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://shangjihuoke.com/api.php/tv.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b7\'b9\'ba\'f3\'b5\'e7\'d3\'b0
+\f0 ",\
+            "name": "
+\f1 \'b7\'b9\'ba\'f3\'b5\'e7\'d3\'b0
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://baicai.summ.vip/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b7\'c9\'bd\'dd\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b7\'c9\'bd\'dd\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.fj6080.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b7\'e8\'bf\'f1\'bf\'b4
+\f0 ",\
+            "name": "
+\f1 \'b7\'e8\'bf\'f1\'bf\'b4
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.fkkdy.vip/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b7\'db\'cf\'f3\'ca\'d3\'bd\'e7
+\f0 ",\
+            "name": "
+\f1 \'b7\'db\'cf\'f3\'ca\'d3\'bd\'e7
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://42.157.129.15:34444/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bb\'a2\'c3\'a8\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'bb\'a2\'c3\'a8\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://humaosp.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bf\'b4\'bf\'b4\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'bf\'b4\'bf\'b4\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://kk.ccboke.top/ruifenglb_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c3\'a8\'df\'e4
+\f0 TV",\
+            "name": "
+\f1 \'c3\'a8\'df\'e4
+\f0 TV(
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://106.12.113.90:6565/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bf\'b5\'d2\'ab\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'bf\'b5\'d2\'ab\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://124.222.126.23:999/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c1\'f9\'b0\'d1\'b5\'b6\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'c1\'f9\'b0\'d1\'b5\'b6\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://pro.6bd.net/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c2\'cc\'bc\'fd\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c2\'cc\'bc\'fd\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://www.69ty.cc/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c1\'e3\'bf\'cc\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'c1\'e3\'bf\'cc\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://ys.ling00.cn/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c0\'c1\'c3\'a8\'b5\'e7\'d3\'b0
+\f0 ",\
+            "name": "
+\f1 \'c0\'c1\'c3\'a8\'b5\'e7\'d3\'b0
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://lanmao.lanmaoymw.cn/ruifenglb_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c0\'b6\'c3\'a8\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'c0\'b6\'c3\'a8\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://www.baofu111.top/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c0\'c5\'e7\'f0\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c0\'c5\'e7\'f0\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://fgyuu.top/lehailb_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c3\'db\'b7\'e4\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c3\'db\'b7\'e4\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.f8tp.com/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c2\'e9\'b9\'cf\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'c2\'e9\'b9\'cf\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://aliyun.k8aa.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c3\'c0\'be\'e7\'b3\'e6
+\f0 ",\
+            "name": "
+\f1 \'c3\'c0\'be\'e7\'b3\'e6
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://meijuchong.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c4\'ce\'b7\'c7\'c3\'d4
+\f0 ",\
+            "name": "
+\f1 \'c4\'ce\'b7\'c7\'c3\'d4
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://app.netflixmi.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c4\'cf\'b8\'ae\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c4\'cf\'b8\'ae\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://iapp.nfuxs.club/dnmb.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c5\'af\'b9\'e2\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c5\'af\'b9\'e2\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://app.bl210.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c4\'ee\'c4\'ee\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c4\'ee\'c4\'ee\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://998.yuanmajs.cn/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c4\'fb\'e8\'d6\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c4\'fb\'e8\'d6\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://nu.e4tv.cn/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c6\'e6\'b9\'d6\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'c6\'e6\'b9\'d6\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://giguai.net/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c8\'f0\'b7\'e1\'d7\'ca\'d4\'b4
+\f0 ",\
+            "name": "
+\f1 \'c8\'f0\'b7\'e1\'d7\'ca\'d4\'b4
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://tv.yjhan.com:4433/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cb\'bc\'c0\'d6\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'cb\'bc\'c0\'d6\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.huandian.top/ruifenglb_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cc\'ec\'b3\'cf\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'cc\'ec\'b3\'cf\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://tcspvip.cn/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cc\'ec\'cc\'ec\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'cc\'ec\'cc\'ec\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://app.daishusc.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'a1\'b0\'d7\'b6\'af\'c2\'fe
+\f0 ",\
+            "name": "
+\f1 \'d0\'a1\'b0\'d7\'b6\'af\'c2\'fe
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://121.62.60.222:20222/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'d6\'b5\'dc\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d0\'d6\'b5\'dc\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.xdys.vip/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'a1\'bc\'ab\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d0\'a1\'bc\'ab\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.8d8q.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'c4\'f0\'bd\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d0\'c4\'f0\'bd\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://zhiyutv.xyz/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d1\'a9\'c8\'cb\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d1\'a9\'c8\'cb\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://zy.qd234.cn/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d2\'e6\'b4\'ef\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'d2\'e6\'b4\'ef\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://luobu.yss6080.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d3\'ea\'b9\'fb\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d3\'ea\'b9\'fb\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://2.yhys63.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d3\'b0\'ca\'d3\'b4\'f3\'c8\'ab
+\f0 ",\
+            "name": "
+\f1 \'d3\'b0\'ca\'d3\'b4\'f3\'c8\'ab
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://app.okmedcos.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d4\'c2\'c9\'ab\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d4\'c2\'c9\'ab\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://69ty.cc/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d3\'c5\'ca\'d3\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d3\'c5\'ca\'d3\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.ysys.asia/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d3\'b0\'d4\'c4\'b8\'f3
+\f0 ",\
+            "name": "
+\f1 \'d3\'b0\'d4\'c4\'b8\'f3
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://221.236.18.12:665/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d7\'b7\'be\'e7\'b0\'c9
+\f0 ",\
+            "name": "
+\f1 \'d7\'b7\'be\'e7\'b0\'c9
+\f0 (
+\f1 \'d3\'c5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://zhuiju8.vip/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_51
+\f1 \'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "51
+\f1 \'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://51shipin.cc/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_CC
+\f1 \'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "CC
+\f1 \'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://ccbug.cc/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_JDODO",\
+            "name": "JDODO(
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://appys.jdodo.xyz/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_nod
+\f1 \'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "nod
+\f1 \'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://appys.jdodo.xyz/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_QC
+\f1 \'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "QC
+\f1 \'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://yss.kkysw.top/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_U5
+\f1 \'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "U5
+\f1 \'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://appx.uy07.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_yoyo",\
+            "name": "yoyo(
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://jx.wnvod.net/ruifenglb_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b0\'a2\'c0\'ef\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b0\'a2\'c0\'ef\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://aliys.cn:90/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b0\'ac\'cc\'d8\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b0\'ac\'cc\'d8\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.aitee.cc/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'e0\'bb\'ce\'d8\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'e0\'bb\'ce\'d8\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://aowu.pro/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b0\'ae\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b0\'ae\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.hzlff.cn/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'df\'d9\'df\'d9\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'df\'d9\'df\'d9\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://baofu111.top/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b0\'d9\'cc\'d4\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b0\'d9\'cc\'d4\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.idianying.com.cn/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b0\'d9\'cc\'d4\'d3\'b0\'ca\'d3
+\f0 2",\
+            "name": "
+\f1 \'b0\'d9\'cc\'d4\'d3\'b0\'ca\'d3
+\f0 2(
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://ys.58g8.com/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b6\'e0\'c0\'b2\'df\'e4
+\f0 PRO",\
+            "name": "
+\f1 \'b6\'e0\'c0\'b2\'df\'e4
+\f0 PRO(
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://yuenos-pro.miyuen.cn/qingdoujiekou.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b1\'c8\'c1\'da\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b1\'c8\'c1\'da\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://0hzy.cn:9990/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b4\'f3\'cd\'b7\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b4\'f3\'cd\'b7\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://dy.idsao.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b4\'f3\'cd\'fe\'b5\'e7\'d3\'b0
+\f0 ",\
+            "name": "
+\f1 \'b4\'f3\'cd\'fe\'b5\'e7\'d3\'b0
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://vip.davdy.com/ruifenglb_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b6\'b9\'d4\'fc\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b6\'b9\'d4\'fc\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://douzhayss.cc/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'ba\'e3\'b4\'f3\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'ba\'e3\'b4\'f3\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.hdys.org/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'ba\'ae\'b7\'e3\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'ba\'ae\'b7\'e3\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://vip.shenyunwl.cn/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bb\'d4\'b8\'e7\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'bb\'d4\'b8\'e7\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://app.y.hgyule8.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bb\'c6\'ba\'d3\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'bb\'c6\'ba\'d3\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://i.ledu8.cn/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bb\'f0\'d0\'c7\'c8\'cb
+\f0 ",\
+            "name": "
+\f1 \'bb\'f0\'d0\'c7\'c8\'cb
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.huoxing9.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'ea\'cf\'cf\'c8\'c9\'ad
+\f0 ",\
+            "name": "
+\f1 \'ea\'cf\'cf\'c8\'c9\'ad
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://hantv.top/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'ba\'d0\'d7\'d3\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'ba\'d0\'d7\'d3\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://i.nihaohezi.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bd\'ee\'b6\'b7\'d4\'c6
+\f0 ",\
+            "name": "
+\f1 \'bd\'ee\'b6\'b7\'d4\'c6
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://tv.jindcloud.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bc\'ab\'b9\'e2\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'bc\'ab\'b9\'e2\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.winxz.cc/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'be\'db\'ba\'cf\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'be\'db\'ba\'cf\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://app.jhystv.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bc\'ab\'bf\'e1\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'bc\'ab\'bf\'e1\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://jiku.vip/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bc\'ab\'c6\'b7\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'bc\'ab\'c6\'b7\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.yhzy.xyz/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'e9\'d9\'d7\'d3\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'e9\'d9\'d7\'d3\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://jz.juzidy.vip/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bf\'b4\'be\'e7\'b0\'c9
+\f0 ",\
+            "name": "
+\f1 \'bf\'b4\'be\'e7\'b0\'c9
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.ishen520.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bf\'b4\'bf\'b4\'be\'e7
+\f0 ",\
+            "name": "
+\f1 \'bf\'b4\'bf\'b4\'be\'e7
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.kankanju.cn/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bf\'b4\'bf\'b4\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'bf\'b4\'bf\'b4\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://888.ccboke.top/ruifenglb_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c2\'cc\'b6\'b9\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'c2\'cc\'b6\'b9\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://v.lvdoui.cn/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c0\'b6\'b9\'e2\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'c0\'b6\'b9\'e2\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://vip.91iqiyi.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c0\'d6\'bf\'b4\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c0\'d6\'bf\'b4\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://z001.cye1688.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c0\'e4\'ca\'d3
+\f0 TV",\
+            "name": "
+\f1 \'c0\'e4\'ca\'d3
+\f0 TV(
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://len.tv/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c0\'d6\'d4\'c6\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c0\'d6\'d4\'c6\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.leyun.tv/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c3\'e2\'b7\'d1\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c3\'e2\'b7\'d1\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://111.229.120.180:88/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c3\'c0\'be\'e7\'b7\'b6
+\f0 ",\
+            "name": "
+\f1 \'c3\'c0\'be\'e7\'b7\'b6
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://ttzmz.net/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c4\'ce\'b7\'c9\'d6\'d0\'ce\'c4
+\f0 ",\
+            "name": "
+\f1 \'c4\'ce\'b7\'c9\'d6\'d0\'ce\'c4
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.naifei.org/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c6\'a4\'c6\'a4\'b6\'af\'c2\'fe
+\f0 ",\
+            "name": "
+\f1 \'c6\'a4\'c6\'a4\'b6\'af\'c2\'fe
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://dm.muying.me/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c6\'e6\'c8\'a4\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c6\'e6\'c8\'a4\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://app.qiqu.me/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c8\'ce\'d0\'d4\'bf\'b4
+\f0 ",\
+            "name": "
+\f1 \'c8\'ce\'d0\'d4\'bf\'b4
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://renxingkan.net/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cb\'d9\'b2\'a5\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'cb\'d9\'b2\'a5\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://subolg.com/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cb\'e6\'b7\'e7\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'cb\'e6\'b7\'e7\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.ruchu.cloud/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cb\'bc\'c6\'e6\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'cb\'bc\'c6\'e6\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.siqitv.vip/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c8\'fd\'c8\'d5\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'c8\'fd\'c8\'d5\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.3ri.net/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cc\'d4\'be\'e7\'c9\'e7
+\f0 ",\
+            "name": "
+\f1 \'cc\'d4\'be\'e7\'c9\'e7
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://app.shuhai99.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cc\'ec\'cc\'ec\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'cc\'ec\'cc\'ec\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.qianju.cc/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cd\'c3\'d7\'d3\'ce\'d1
+\f0 ",\
+            "name": "
+\f1 \'cd\'c3\'d7\'d3\'ce\'d1
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://cj.huimaojia.com:12345/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'ce\'d2\'b0\'ae\'b8\'fa\'be\'e7
+\f0 ",\
+            "name": "
+\f1 \'ce\'d2\'b0\'ae\'b8\'fa\'be\'e7
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.genmov.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'ce\'e1\'b0\'ae\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'ce\'e1\'b0\'ae\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.5lp.net/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'ce\'cf\'c5\'a3\'b6\'af\'c2\'fe
+\f0 ",\
+            "name": "
+\f1 \'ce\'cf\'c5\'a3\'b6\'af\'c2\'fe
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://woniudm.woniu.cyou:20000/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d1\'b0\'b3\'a3\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d1\'b0\'b3\'a3\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://tv.91ymz.cn/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'dc\'c3\'a8\'b6\'af\'c2\'fe
+\f0 ",\
+            "name": "
+\f1 \'d0\'dc\'c3\'a8\'b6\'af\'c2\'fe
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://dongman.k8aa.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'dc\'c3\'a8\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'d0\'dc\'c3\'a8\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://anegh.com/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'a1\'c4\'f1\'b6\'af\'c2\'fe
+\f0 ",\
+            "name": "
+\f1 \'d0\'a1\'c4\'f1\'b6\'af\'c2\'fe
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://xydm.baicai.buzz/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'a1\'f2\'df\'f2\'d1
+\f0 ",\
+            "name": "
+\f1 \'d0\'a1\'f2\'df\'f2\'d1
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://3ketv.com/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'c7\'c7\'f2\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'d0\'c7\'c7\'f2\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://119.29.121.48:8088/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'e7\'f4\'d0\'c4\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'e7\'f4\'d0\'c4\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://tv.arbd.cn/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d4\'c6\'b3\'c7\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'d4\'c6\'b3\'c7\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://ayyf.cn/mubai_api.php/m2.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d4\'c2\'b6\'f9\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d4\'c2\'b6\'f9\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://yue52.xyz/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d3\'a3\'bb\'a8\'b6\'af\'c2\'fe
+\f0 ",\
+            "name": "
+\f1 \'d3\'a3\'bb\'a8\'b6\'af\'c2\'fe
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://www.dmwu.cc/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d4\'b4\'c0\'b4\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d4\'b4\'c0\'b4\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://ld.ylaiys.com/lvdou_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d4\'c6\'c3\'ce\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d4\'c6\'c3\'ce\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://yun.yunl.xyz/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d3\'b0\'ca\'d3\'b4\'f3\'c8\'ab
+\f0 ",\
+            "name": "
+\f1 \'d3\'b0\'ca\'d3\'b4\'f3\'c8\'ab
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://xc.xixi2yy.xyz/mogai_api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d3\'b0\'ca\'d3\'c8\'c8\'be\'e7
+\f0 ",\
+            "name": "
+\f1 \'d3\'b0\'ca\'d3\'c8\'c8\'be\'e7
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://lb.26ys.cn/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d3\'e6\'d3\'e6\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d3\'e6\'d3\'e6\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://luobo.yugenye.site/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'e8\'d6\'d7\'d3\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'e8\'d6\'d7\'d3\'ca\'d3\'c6\'b5
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://yz.26ys.cn/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d3\'e3\'d7\'d0\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'d3\'e3\'d7\'d0\'d3\'b0\'ca\'d3
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://yuzaio.top/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d7\'b7\'be\'e7\'b0\'c9
+\f0 ",\
+            "name": "
+\f1 \'d7\'b7\'be\'e7\'b0\'c9
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://wtv.fit/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d7\'b7\'be\'e7\'c3\'a8
+\f0 ",\
+            "name": "
+\f1 \'d7\'b7\'be\'e7\'c3\'a8
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://tv.kmtvb.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d6\'ed\'d6\'ed\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'d6\'ed\'d6\'ed\'d3\'b0\'d4\'ba
+\f0 (
+\f1 \'c6\'d5
+\f0 )",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://app.2zdyy.com/api.php/v1.vod"\
+        \},\
+        \{\
+            "key": "csp_appysv2_2
+\f1 \'ba\'c5\'b1\'d2
+\f0 ",\
+            "name": "2
+\f1 \'ba\'c5\'b1\'d2
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://phoebe.cf/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_CV
+\f1 \'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "CV
+\f1 \'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://www.cccvvv.top/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_HG
+\f1 \'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "HG
+\f1 \'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://api.hgyx.vip/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b0\'ae\'ce\'f7\'ce\'f7
+\f0 TV",\
+            "name": "
+\f1 \'b0\'ae\'ce\'f7\'ce\'f7
+\f0 TV(IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://tv2.aixixi.vip/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b4\'cc\'cd\'a9\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b4\'cc\'cd\'a9\'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://tv.cttv.vip/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b6\'a3\'b5\'b1
+\f0 TV",\
+            "name": "
+\f1 \'b6\'a3\'b5\'b1
+\f0 TV(IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://tv.hyddys.top/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'e0\'d6\'c1\'a8\'e0\'d6\'c1\'a8
+\f0 ",\
+            "name": "
+\f1 \'e0\'d6\'c1\'a8\'e0\'d6\'c1\'a8
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "https://api.diliktv.xyz/api.php/Chengcheng/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b4\'f3\'ca\'a6\'d0\'d6
+\f0 ",\
+            "name": "
+\f1 \'b4\'f3\'ca\'a6\'d0\'d6
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://dsxtv.tv.ci/api.php/dsx/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b6\'fe\'bb\'f5\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'b6\'fe\'bb\'f5\'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://d.zjj.life:88/mv/api.php/Chengcheng/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b7\'c7\'b7\'b2\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'b7\'c7\'b7\'b2\'d3\'b0\'d4\'ba
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://cms.feifan12.xyz/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'b7\'c9\'d1\'ef
+\f0 TV",\
+            "name": "
+\f1 \'b7\'c9\'d1\'ef
+\f0 TV(IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://diancj.zhenfy.cn/api.php/Chengcheng/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'ba\'d9\'dd\'b1\'b7\'e6
+\f0 ",\
+            "name": "
+\f1 \'ba\'d9\'dd\'b1\'b7\'e6
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://tv.hfys8.vip/api.php/Sntv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'ba\'da\'c1\'fa\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'ba\'da\'c1\'fa\'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://vip.ji-ding-he.site/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'be\'db\'b6\'e0\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'be\'db\'b6\'e0\'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://jdyy.weetai.cn/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bc\'ab\'c6\'b7\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'bc\'ab\'c6\'b7\'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://jpsb.yhzy.xyz/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'bc\'ab\'c6\'b7\'d3\'b0\'d4\'ba
+\f0 ",\
+            "name": "
+\f1 \'bc\'ab\'c6\'b7\'d3\'b0\'d4\'ba
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://293x.yhzy.xyz/mv/api.php/Chengcheng/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c0\'d6\'bf\'e1
+\f0 TV",\
+            "name": "
+\f1 \'c0\'d6\'bf\'e1
+\f0 TV(IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://103.45.161.138:2021/api.php/Chengcheng/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c1\'f9\'ce\'ac\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c1\'f9\'ce\'ac\'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://liuweiiptv.gq:1357/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c1\'f7\'d0\'c7\'d3\'ea
+\f0 ",\
+            "name": "
+\f1 \'c1\'f7\'d0\'c7\'d3\'ea
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://nn.lxyyy.xyz:8/c/api.php/WAiLaowang/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c0\'f3\'d6\'a6\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c0\'f3\'d6\'a6\'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://api.zjys.vip/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c3\'db\'b9\'fb
+\f0 TV",\
+            "name": "
+\f1 \'c3\'db\'b9\'fb
+\f0 TV(IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://vv.miguotv.net/m/api.php/Chengcheng/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c3\'d7\'c0\'b4\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c3\'d7\'c0\'b4\'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://42.51.37.161:2346/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c3\'d7\'c6\'e6
+\f0 TV",\
+            "name": "
+\f1 \'c3\'d7\'c6\'e6
+\f0 TV(IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://www.s6ep3.top/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c6\'df\'bf\'c6\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c6\'df\'bf\'c6\'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://tv.7kfm.cn/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c8\'f4\'cf\'a7\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c8\'f4\'cf\'a7\'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://rxw.ruoxinew.com/api.php/Sntv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cb\'bc\'c6\'e6
+\f0 TV",\
+            "name": "
+\f1 \'cb\'bc\'c6\'e6
+\f0 TV(IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://tv.siqitv.vip/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'c9\'bd\'e9\'ab\'d3\'b0\'ca\'d3
+\f0 ",\
+            "name": "
+\f1 \'c9\'bd\'e9\'ab\'d3\'b0\'ca\'d3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://dy6.dcd1.cn/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cc\'ec\'bf\'d5
+\f0 TV",\
+            "name": "
+\f1 \'cc\'ec\'bf\'d5
+\f0 TV(IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://tv.tkys.tv/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'cf\'ba\'c6\'a4\'ca\'d3\'c6\'b5
+\f0 ",\
+            "name": "
+\f1 \'cf\'ba\'c6\'a4\'ca\'d3\'c6\'b5
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://tv.cmt8.xyz/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'a1\'bc\'ab
+\f0 TV",\
+            "name": "
+\f1 \'d0\'a1\'bc\'ab
+\f0 TV(IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://api.8d8q.com/mmv/api.php/Chengcheng/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d0\'a1\'d0\'dc\'c3\'a8
+\f0 TV",\
+            "name": "
+\f1 \'d0\'a1\'d0\'dc\'c3\'a8
+\f0 TV(IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://tv2.hetaoys.vip/api.php/iptv/vod/"\
+        \},\
+        \{\
+            "key": "csp_appysv2_
+\f1 \'d3\'b0\'ca\'d3\'b8\'f3
+\f0 ",\
+            "name": "
+\f1 \'d3\'b0\'ca\'d3\'b8\'f3
+\f0 (IPTV)",\
+            "type": 3,\
+            "api": "csp_AppYsV2",\
+            "searchable": 1,\
+            "quickSearch": 0,\
+            "filterable": 1,\
+            "ext": "http://216.98.10.85/api.php/iptv/vod/"\
+        \}\
+    ],\
+    "lives": [\
+        \{\
+            "group": "redirect",\
+            "channels": [\
+                \{\
+                    "name": "redirect",\
+                    "urls": [\
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9tby14aWFvLmNvZGluZy5uZXQvcC9jL2QvYy9naXQvcmF3L21hc3Rlci9saXZlL2xpdmUudHh0"\
+                    ]\
+                \}\
+            ]\
+        \}\
+    ],\
+    "parses": [\
+        \{\
+            "name": "Json
+\f1 \'b2\'a2\'b7\'a2
+\f0 ",\
+            "type": 2,\
+            "url": "Parallel"\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 52",\
+            "type": 1,\
+            "url": "http://23.224.174.74:5577/home/api?type=ys&uid=19722&key=aghknrsvxCDEGNRSUZ&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 53",\
+            "type": 1,\
+            "url": "http://42.157.128.85:880/analysis/json/?uid=1735&my=dhkmopwCFGIKOQRUX8&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 54",\
+            "type": 1,\
+            "url": "http://47.100.138.210:91/home/api?type=ys&uid=4476440&key=eghkvwxyFHORVX3478&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 55",\
+            "type": 1,\
+            "url": "http://app.renrenmi.cc:3333/api/?key=mtjJAJRXpwT5XAqWnn&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 56",\
+            "type": 1,\
+            "url": "http://cs.024zs.com:8090/api/?key=ohApwnws7CIqX1xl9J&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 58",\
+            "type": 1,\
+            "url": "http://jx.laodi.xyz:6699/api.php/user/jx?uid=4&ldkey=BLsUKYVZiWdmQc7bbpT3&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 59",\
+            "type": 1,\
+            "url": "http://jx.maccms.ren/home/api?type=ys&uid=15959&key=abgisvyzFHJKOSTUW0&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 60",\
+            "type": 1,\
+            "url": "http://ts.yjhan.com:8090/api/?key=43yVlZDaJg7dYH3DZi&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 61",\
+            "type": 1,\
+            "url": "http://ts.yjhan.com:8090/api/?key=DSQFgXdmj9xkDyiXdr&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 62",\
+            "type": 1,\
+            "url": "http://ts.yjhan.com:8090/api/?key=ZqS8HhnDRUmTBQQfnh&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 63",\
+            "type": 1,\
+            "url": "http://ts.yjhan.com:8090/api/?key=yNSLsBLOaUkKp2kZ6i&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 64",\
+            "type": 1,\
+            "url": "http://ts.yjhan.com:8090/api/?key=DSQFgXdmj9xkDyiXdr&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 65",\
+            "type": 1,\
+            "url": "http://www.cxshare.cc/api/?key=rnYfLNd2efv18yrl2m&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 66",\
+            "type": 1,\
+            "url": "http://www.mgtv.com.cxshare.cc/api/?key=rnYfLNd2efv18yrl2m&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 67",\
+            "type": 1,\
+            "url": "http://www.yyiw.cn/home/api?type=ys&uid=1746003&key=bcopqxADEFHIJRW467&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 68",\
+            "type": 1,\
+            "url": "http://yunhai.lanmaoymw.cn/api/?key=9u3r1BviBqVMs2FtmT&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 69",\
+            "type": 1,\
+            "url": "https://2233.yuanmajs.cn/api/?key=p6vpQCno0dPXbX4UQe&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 70",\
+            "type": 1,\
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=123503&key=ghinorsuvBCMOQTY68&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 71",\
+            "type": 1,\
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=998036&key=afhlnuvzDJLMOX3689&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 72",\
+            "type": 1,\
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=4614156&key=acdklrzHIMNSUVX245&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 73",\
+            "type": 1,\
+            "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=8153438&key=dfjkmopxHJKNXZ2389&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 74",\
+            "type": 1,\
+            "url": "https://api.qilin.best/home/api?type=ys&uid=2343358&key=cekpsuvxJKNOV34789&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 75",\
+            "type": 1,\
+            "url": "https://cs.024zs.com:4433/api/?key=5JQOabvSfe3bRuRcg6&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 76",\
+            "type": 1,\
+            "url": "https://cs.024zs.com:4433/api/?key=LGUeur4mGYqAaUN3Zm&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 77",\
+            "type": 1,\
+            "url": "https://cs.024zs.com:4433/api/?key=RMxGLBw1U2J2brQus6&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 78",\
+            "type": 1,\
+            "url": "https://cs.024zs.com:4433/api/?key=VCDHl8VpAYYG8tpBCt&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 79",\
+            "type": 1,\
+            "url": "https://cs.024zs.com:4433/api/?key=ZGIAzc1y86fEENqYWb&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 80",\
+            "type": 1,\
+            "url": "https://cs.024zs.com:4433/api/?key=hKzvIMLB7jbWVeLXxw&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 81",\
+            "type": 1,\
+            "url": "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=bcdjqBEFGLMPW01457&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 82",\
+            "type": 1,\
+            "url": "https://jf.1080p.icu/home/api?type=dsp&uid=147565&key=adilmopuBEFJNUV067&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 83",\
+            "type": 1,\
+            "url": "https://jx.xmau.cn/home/api?type=ys&uid=117834&key=abdehjstwxIJLOPU59&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 84",\
+            "type": 1,\
+            "url": "https://kuba.renrenmi.cc:2266/api/?key=Yjm3USwyAriYMIm3PR&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 85",\
+            "type": 1,\
+            "url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=461939&key=adfgilmotCEPRSXY06&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 86",\
+            "type": 1,\
+            "url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=1589472&key=adegnxzBDJKMNOPR59&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 87",\
+            "type": 1,\
+            "url": "https://ltjx.jeeves.vip/home/api?type=ys&uid=1765759&key=fiorvzBFKMOQVX6789&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 88",\
+            "type": 1,\
+            "url": "https://ltjx.jeeves.vip/khd/?uid=1853064&key=jlruvwBDEFGIMQWZ46&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 89",\
+            "type": 1,\
+            "url": "https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 90",\
+            "type": 1,\
+            "url": "https://vip.aiaine.com/api/?key=pJiKdUKoatLiVha0el&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 91",\
+            "type": 1,\
+            "url": "https://vip.rongxingvr.top/api/?key=XgHGZaTLjhiDb8nMgp&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 92",\
+            "type": 1,\
+            "url": "https://vip.rongxingvr.top/api/?key=gWN9XYGvgcCjfi8gGa&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 93",\
+            "type": 1,\
+            "url": "https://vip.kpjx.cc/api/?key=VU93wdaptITbCRaVbG&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 94",\
+            "type": 1,\
+            "url": "https://vvip.funsline.cn:8866/api/?key=8ywTiRHAbavcaKpl1n&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 95",\
+            "type": 1,\
+            "url": "https://vvip.funsline.cn:8866/api/?key=vGbxC8zUkJLbD0VdE0&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 96",\
+            "type": 1,\
+            "url": "https://vvip.muxvip.com:8866/api/?key=vGbxC8zUkJLbD0VdE0&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 97",\
+            "type": 1,\
+            "url": "https://vvip.muxvip.com:8866/api/?key=yL9NOOdevf0zn1S27X&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 98",\
+            "type": 1,\
+            "url": "https://ysjx.jikezhuji.com/api/?key=kekEyIVvU8GT1Xj1g1&url="\
+        \},\
+        \{\
+            "name": "
+\f1 \'d0\'c7\'d0\'c7
+\f0 99",\
+            "type": 1,\
+            "url": "https://ysjx.jikezhuji.com/api/?key=mQ0OOQdZgaYq4qKv1S&url="\
+        \}\
+    ],\
+    "flags": [\
+        "youku",\
+        "qq",\
+        "iqiyi",\
+        "qiyi",\
+        "letv",\
+        "sohu",\
+        "tudou",\
+        "pptv",\
+        "mgtv",\
+        "wasu",\
+        "bilibili",\
+        "duoduozy",\
+        "renrenmi"\
+    ],\
+    "ijk": [\
+        \{\
+            "group": "
+\f1 \'c8\'ed\'bd\'e2\'c2\'eb
+\f0 ",\
+            "options": [\
+                \{\
+                    "category": 4,\
+                    "name": "opensles",\
+                    "value": "0"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "overlay-format",\
+                    "value": "842225234"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "framedrop",\
+                    "value": "1"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "soundtouch",\
+                    "value": "1"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "start-on-prepared",\
+                    "value": "1"\
+                \},\
+                \{\
+                    "category": 1,\
+                    "name": "http-detect-range-support",\
+                    "value": "0"\
+                \},\
+                \{\
+                    "category": 1,\
+                    "name": "fflags",\
+                    "value": "fastseek"\
+                \},\
+                \{\
+                    "category": 2,\
+                    "name": "skip_loop_filter",\
+                    "value": "48"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "reconnect",\
+                    "value": "1"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "enable-accurate-seek",\
+                    "value": "0"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "mediacodec",\
+                    "value": "0"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "mediacodec-auto-rotate",\
+                    "value": "0"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "mediacodec-handle-resolution-change",\
+                    "value": "0"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "mediacodec-hevc",\
+                    "value": "0"\
+                \},\
+                \{\
+                    "category": 1,\
+                    "name": "dns_cache_timeout",\
+                    "value": "600000000"\
+                \}\
+            ]\
+        \},\
+        \{\
+            "group": "
+\f1 \'d3\'b2\'bd\'e2\'c2\'eb
+\f0 ",\
+            "options": [\
+                \{\
+                    "category": 4,\
+                    "name": "opensles",\
+                    "value": "0"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "overlay-format",\
+                    "value": "842225234"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "framedrop",\
+                    "value": "1"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "soundtouch",\
+                    "value": "1"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "start-on-prepared",\
+                    "value": "1"\
+                \},\
+                \{\
+                    "category": 1,\
+                    "name": "http-detect-range-support",\
+                    "value": "0"\
+                \},\
+                \{\
+                    "category": 1,\
+                    "name": "fflags",\
+                    "value": "fastseek"\
+                \},\
+                \{\
+                    "category": 2,\
+                    "name": "skip_loop_filter",\
+                    "value": "48"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "reconnect",\
+                    "value": "1"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "enable-accurate-seek",\
+                    "value": "0"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "mediacodec",\
+                    "value": "1"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "mediacodec-auto-rotate",\
+                    "value": "1"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "mediacodec-handle-resolution-change",\
+                    "value": "1"\
+                \},\
+                \{\
+                    "category": 4,\
+                    "name": "mediacodec-hevc",\
+                    "value": "1"\
+                \},\
+                \{\
+                    "category": 1,\
+                    "name": "dns_cache_timeout",\
+                    "value": "600000000"\
+                \}\
+            ]\
+        \}\
+    ],\
+    "ads": [\
+        "mimg.0c1q0l.cn",\
+        "www.googletagmanager.com",\
+        "www.google-analytics.com",\
+        "mc.usihnbcq.cn",\
+        "mg.g1mm3d.cn",\
+        "mscs.svaeuzh.cn",\
+        "cnzz.hhttm.top",\
+        "tp.vinuxhome.com",\
+        "cnzz.mmstat.com",\
+        "www.baihuillq.com",\
+        "s23.cnzz.com",\
+        "z3.cnzz.com",\
+        "c.cnzz.com",\
+        "stj.v1vo.top",\
+        "z12.cnzz.com",\
+        "img.mosflower.cn",\
+        "tips.gamevvip.com",\
+        "ehwe.yhdtns.com",\
+        "xdn.cqqc3.com",\
+        "www.jixunkyy.cn",\
+        "sp.chemacid.cn",\
+        "hm.baidu.com",\
+        "s9.cnzz.com",\
+        "z6.cnzz.com",\
+        "um.cavuc.com",\
+        "mav.mavuz.com",\
+        "wofwk.aoidf3.com",\
+        "z5.cnzz.com",\
+        "xc.hubeijieshikj.cn",\
+        "tj.tianwenhu.com",\
+        "xg.gars57.cn",\
+        "k.jinxiuzhilv.com",\
+        "cdn.bootcss.com",\
+        "ppl.xunzhuo123.com",\
+        "xomk.jiangjunmh.top",\
+        "img.xunzhuo123.com",\
+        "z1.cnzz.com",\
+        "s13.cnzz.com",\
+        "xg.huataisangao.cn",\
+        "z7.cnzz.com",\
+        "xg.huataisangao.cn",\
+        "z2.cnzz.com",\
+        "s96.cnzz.com",\
+        "q11.cnzz.com",\
+        "thy.dacedsfa.cn",\
+        "xg.whsbpw.cn",\
+        "s19.cnzz.com",\
+        "z8.cnzz.com",\
+        "s4.cnzz.com",\
+        "f5w.as12df.top",\
+        "ae01.alicdn.com",\
+        "www.92424.cn",\
+        "k.wudejia.com",\
+        "vivovip.mmszxc.top",\
+        "qiu.xixiqiu.com",\
+        "cdnjs.hnfenxun.com",\
+        "cms.qdwght.com"\
+    ],\
+    "wallpaper": "https://i.ibb.co/9rcmg7n/cat.jpg",\
+    "spider": "https://mo-xiao.coding.net/p/c/d/c/git/raw/master/jar/custom_spider.jar;md5;82a7236740449ef448bf9754bae8f591"\
+\}}
